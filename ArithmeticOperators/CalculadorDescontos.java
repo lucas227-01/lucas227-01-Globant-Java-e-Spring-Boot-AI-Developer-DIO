@@ -1,4 +1,4 @@
-package conditionalstructuresifelse;
+package ArithmeticOperators;
 import java.util.Scanner;
 
 public class CalculadorDescontos {
